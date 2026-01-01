@@ -1,4 +1,4 @@
-# *Bloom Vision*
+# **Bloom Vision**
 
 Predict Oxford Flowers image classes using Machine Learning, featuring:
 
@@ -18,4 +18,5 @@ Predict Oxford Flowers image classes using Machine Learning, featuring:
 - Open the notebook in Google Colab
 - Run all cells from top to bottom
 - Explore visualizations and insights
-[Open in Colab]
+[Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/Bloom_Vision/blob/main/Image_Classifier_with_Top_3_Prediction_Analysis.ipynb)
+
